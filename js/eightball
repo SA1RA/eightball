@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+'use strict'
+var c = require("skilstak-colors");
+console.log(c.cyan + "welcome to the 8ball");
